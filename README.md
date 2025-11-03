@@ -28,9 +28,3 @@ Play the 2048++ from Google Play: [https://play.google.com/store/apps/details?id
 | Big(5x5) | Hammer Feature |
 |--|--|
 | ![4](https://github.com/jemish-169/2048/assets/95186825/0a655a9e-7a05-4d09-9486-362d60191e22) | ![5](https://github.com/jemish-169/2048/assets/95186825/346417dc-5da1-45d0-aa16-7bd9551ed006) |
-
-
-## Built With 🛠
-
-- [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
-- [Material Components for Android](https://github.com/material-components/material-components-android) - Material Components are a set of UI components that helps you build Android apps with Material Design
